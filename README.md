@@ -5,21 +5,16 @@
 ✏ Finnish language teacher
 
 ## Stack that's piling up
-
 I know or I'm currently learning...<br>
 0️⃣0️⃣ <strong>C <br>
 1️⃣0️⃣ Java <br>
 1️⃣1️⃣ React, Node.JS</strong> <br>
 
 ## When AFK
-
-⚽ Watching/playing sports
-
-🎮 Controller in hands
-
-🎹 Listening/playing music
-
-🛌🏻 Sleeping
+⚽ Watching/playing sports<br>
+🎮 Controller in hands<br>
+⛺ At the cottage<br>
+🛌🏻 Sleeping<br>
 
 <!--
 **einoob/einoob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
