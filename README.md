@@ -1,4 +1,8 @@
-### Hi there 👋
+### Eino Lindberg
+⌨ Programming student at [Hive Helsinki](https://www.hive.fi/en/)
+📘 Finnish language teacher
+
+##
 
 <!--
 **einoob/einoob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
