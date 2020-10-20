@@ -7,7 +7,9 @@
 ## Stack that's piling up
 
 0️⃣0️⃣ C
+
 1️⃣0️⃣ Java
+
 1️⃣1️⃣ React, Node.JS
 
 <!--
