@@ -13,7 +13,7 @@ I know or I'm currently learning...<br>
 ## AFK
 ⚽ Watching/playing sports<br>
 🎮 Controller in hands<br>
-⛺ At the cottage<br>
+🌲 At the cottage<br>
 🛌🏻 Sleeping<br>
 
 <!--
