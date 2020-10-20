@@ -1,7 +1,8 @@
 ### Eino Lindberg
-⌨ Programming student at [Hive Helsinki](https://www.hive.fi/en/)
 
-📘 Finnish language teacher
+👨🏻‍💻Programming student at [Hive Helsinki](https://www.hive.fi/en/)
+
+✏Finnish language teacher
 
 ##
 
