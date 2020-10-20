@@ -6,14 +6,10 @@
 
 ### Stack that's piling up
 
-I know or I'm currently learning...
-
-0️⃣0️⃣ C
-
-1️⃣0️⃣ Java
-
-1️⃣1️⃣ React, Node.JS
-
+I know or I'm currently learning...<br>
+0️⃣0️⃣ C <br>
+1️⃣0️⃣ Java <br>
+1️⃣1️⃣ React, Node.JS <br>
 
 ### When AFK
 
