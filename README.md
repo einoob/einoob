@@ -10,7 +10,7 @@ I know or I'm currently learning...<br>
 1️⃣0️⃣ Java <br>
 1️⃣1️⃣ React, Node.JS</strong> <br>
 
-## When AFK
+## AFK
 ⚽ Watching/playing sports<br>
 🎮 Controller in hands<br>
 ⛺ At the cottage<br>
