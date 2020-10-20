@@ -1,10 +1,10 @@
-### Eino Lindberg
+## Eino Lindberg
 
 💻Programming student at [Hive Helsinki](https://www.hive.fi/en/)
 
 ✏Finnish language teacher
 
-## Stack that's piling up
+### Stack that's piling up
 
 0️⃣0️⃣ C
 
