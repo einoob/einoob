@@ -6,15 +6,15 @@
 
 ## Stack that's piling up
 I know or I'm currently learning...<br>
-0️⃣0️⃣ <strong>C <br>
-1️⃣0️⃣ Java <br>
-1️⃣1️⃣ React, Node.JS</strong> <br>
+0️⃣0️⃣ <strong> &nbsp; C <br> 
+1️⃣0️⃣ &nbsp;Java <br>
+1️⃣1️⃣ &nbsp;React, Node.JS</strong> <br>
 
 ## AFK
-⚽ Watching/playing sports<br>
-🎮 Controller in hands<br>
-🌲 At the cottage<br>
-🛌🏻 Sleeping<br>
+⚽ &nbsp; Watching/playing sports<br>
+🎮 &nbsp; Controller in hands<br>
+🌲 &nbsp; At the cottage<br>
+🛌🏻 &nbsp; Sleeping<br>
 
 <!--
 **einoob/einoob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
