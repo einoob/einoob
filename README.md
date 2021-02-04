@@ -1,6 +1,6 @@
 # Eino Lindberg
 
-💻 &nbsp; Programming student at [Hive Helsinki](https://www.hive.fi/en/), currently on internship at [Studyo Oy](https://studyo.fi/)
+💻 &nbsp; Programming student at [Hive Helsinki](https://www.hive.fi/en/), currently on an internship at [Studyo Oy](https://studyo.fi/)
 
 ✏ &nbsp;Finnish language teacher
 
