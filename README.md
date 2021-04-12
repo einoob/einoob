@@ -5,10 +5,10 @@
 ✏ &nbsp;Finnish language teacher
 
 ## Stack that's piling up
-I know or I'm currently learning...<br>
+I'm more or less familiar with... <br>
 0️⃣0️⃣ <strong> &nbsp;C <br> 
-0️⃣1️⃣ &nbsp;Java <br>
-1️⃣0️⃣ &nbsp;React, Node.JS</strong> <br>
+0️⃣1️⃣ &nbsp;React and React Native + Node.JS <br>
+1️⃣0️⃣ &nbsp;Java </strong> <br>
 
 ## AFK
 ⚽ &nbsp; Watching/playing sports<br>
