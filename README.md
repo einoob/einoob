@@ -6,9 +6,9 @@
 
 ## Stack that's piling up
 I'm more or less familiar with... <br>
-0️⃣0️⃣ <strong> &nbsp;C <br> 
+0️⃣0️⃣ &nbsp;C <br> 
 0️⃣1️⃣ &nbsp;React and React Native + Node.JS <br>
-1️⃣0️⃣ &nbsp;Java </strong> <br>
+1️⃣0️⃣ &nbsp;Java <br>
 
 ## AFK
 ⚽ &nbsp; Watching/playing sports<br>
