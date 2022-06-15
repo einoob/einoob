@@ -1,8 +1,10 @@
 # Eino Lindberg
 
-💻 &nbsp; Software developer at [Studyo Oy](https://studyo.fi/), [Hive Helsinki](https://www.hive.fi/en/) alumnus
+💻 &nbsp;Software developer at [Studyo Oy](https://studyo.fi/)
 
 ✏ &nbsp;Finnish language teacher
+
+🎓 &nbsp;[Hive Helsinki](https://www.hive.fi/en/) alumnus
 
 ## Stack that's piling up
 I'm more or less familiar with... <br>
