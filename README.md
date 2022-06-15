@@ -1,13 +1,13 @@
 # Eino Lindberg
 
-💻 &nbsp; Programming student at [Hive Helsinki](https://www.hive.fi/en/), currently on an internship at [Studyo Oy](https://studyo.fi/)
+💻 &nbsp; Software developer at [Studyo Oy](https://studyo.fi/), [Hive Helsinki](https://www.hive.fi/en/) alumnus
 
 ✏ &nbsp;Finnish language teacher
 
 ## Stack that's piling up
 I'm more or less familiar with... <br>
 0️⃣0️⃣ &nbsp;React and React Native + Node.JS <br> 
-0️⃣1️⃣ &nbsp;Freemarker, HTML, CSS <br>
+0️⃣1️⃣ &nbsp;HTML, CSS, Freemarker <br>
 1️⃣0️⃣ &nbsp;C <br>
 1️⃣1️⃣ &nbsp;Java, Groovy <br>
 
