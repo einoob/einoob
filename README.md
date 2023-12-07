@@ -8,7 +8,7 @@
 
 ## Stack that's piling up
 I'm more or less familiar with... <br>
-0️⃣0️⃣ &nbsp;React and React Native + Node.JS <br> 
+0️⃣0️⃣ &nbsp;React and React Native (JavaScript) + Node.JS <br> 
 0️⃣1️⃣ &nbsp;HTML, CSS, Freemarker <br>
 1️⃣0️⃣ &nbsp;C <br>
 1️⃣1️⃣ &nbsp;Java, Groovy <br>
