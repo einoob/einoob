@@ -15,7 +15,7 @@ I'm more or less familiar with... <br>
 
 ## AFK
 ⚽ &nbsp; Watching/playing sports<br>
-🎮 &nbsp; Controller in hands<br>
+📀 &nbsp; Spinning decks<br>
 🌲 &nbsp; At the cottage<br>
 🛌🏻 &nbsp; Sleeping<br>
 
