@@ -1,6 +1,6 @@
 # Eino Lindberg
 
-💻 &nbsp;Software developer at [Studyo Oy](https://studyo.fi/)
+💻 &nbsp;Software developer at [Netum Tuotteet](https://www.netum.fi/tuotteet/)
 
 ✏ &nbsp;Finnish language teacher
 
