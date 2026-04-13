@@ -2,9 +2,10 @@
 
 💻 &nbsp;Software developer at [Netum Tuotteet](https://www.netum.fi/tuotteet/)
 
+🎓 &nbsp;[Hive Helsinki](https://www.hive.fi/en/) alumnus
+
 ✏ &nbsp;Finnish language teacher
 
-🎓 &nbsp;[Hive Helsinki](https://www.hive.fi/en/) alumnus
 
 ## Stack that's piling up
 I'm more or less familiar with... <br>
