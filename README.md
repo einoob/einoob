@@ -1,6 +1,6 @@
 # Eino Lindberg
 
-💻 &nbsp;Software developer at [Netum Tuotteet](https://www.netum.fi/tuotteet/)
+💻 &nbsp;Software developer at [Studyo Oy (Netum Tuotteet)](https://www.netum.fi/tuotteet/)
 
 🎓 &nbsp;[Hive Helsinki](https://www.hive.fi/en/) alumnus
 
